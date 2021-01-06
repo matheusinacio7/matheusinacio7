@@ -1,4 +1,4 @@
-### Hey there, I'm Set! :grimacing:
+### Hey there, I'm Set! @heyset :grimacing:
 
 I'm an enthusiast developer, currently learning JavaScript and getting cozy with the MERN stack.
 
