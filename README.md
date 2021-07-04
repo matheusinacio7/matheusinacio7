@@ -1,6 +1,6 @@
 ### Hey there, I'm Matheus "Set" Inacio! :grimacing:
 
-I'm an enthusiast developer, currently learning more about JavaScript and getting cozy with the MERN stack.
+I'm a developer, currently learning more about JavaScript and TypeScript.
 I've got some skills in HTML, CSS, JavaScript + some frameworks/etc like Node, Express, Puppeteer, React.
 
 I have studied C# and Unity in the past, after dropping my previous career as a high school tutor.
