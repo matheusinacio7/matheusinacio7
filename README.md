@@ -7,4 +7,4 @@ I have studied C# and Unity in the past, after dropping my previous career as a 
 
 Currently working as a Frontend Developer at [Flow](https://flowpodcast.com.br), platform for one of the largest Brazilian podcasts; and studying at the awesome school [Trybe](https://www.betrybe.com/).
 
-If you want to get in contact with me, you can do so through my [LinkedIn](https://www.linkedin.com/in/inaciomatheusdev/).
+If you want to get in contact with me, you can do so through my [LinkedIn](https://www.linkedin.com/in/inaciomatheusdev/) or [Twitter](https://twitter.com/heyset_).
