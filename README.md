@@ -1,7 +1,7 @@
 ### Hey there, I'm Matheus "Set" Inacio! :grimacing:
 
 I'm a developer, currently learning more about JavaScript and TypeScript and a tad bit about Python.
-I've got some skills in HTML, CSS, JavaScript + some frameworks/etc like Node, Express, Puppeteer, React, Next.
+I've skills in HTML, CSS, JavaScript + some frameworks/etc like Node, Express, Puppeteer, React, Next.
 
 I have studied C# and Unity in the past, after dropping my previous career as a high school tutor.
 
