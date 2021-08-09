@@ -1,9 +1,8 @@
 ### Hey there, I'm Matheus "Set" Inacio! :grimacing:
 
-I'm a developer, currently learning more about JavaScript and TypeScript and a tad bit about Python.
-I've skills in HTML, CSS, JavaScript + some frameworks/etc like Node, Express, Puppeteer, React, Next.
+I am a developer, currently working mostly with TypeScript and React (+ NextJS).
 
-I have studied C# and Unity in the past, after dropping my previous career as a high school tutor.
+I also have a strong passion for gaming and game development and have studied C# and Unity in the past, after dropping my previous career as a high school tutor.
 
 Currently working as a Frontend Developer at [Flow](https://flowpodcast.com.br), platform for one of the largest Brazilian podcasts; and studying at the awesome school [Trybe](https://www.betrybe.com/).
 
