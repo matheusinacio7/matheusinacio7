@@ -1,6 +1,6 @@
 ### Hey there, I'm Matheus "Set" Inacio! :grimacing:
 
-I am a developer, currently working mostly with TypeScript and React (+ NextJS).
+I am a developer, currently working mostly with TypeScript.
 
 I also have a strong passion for gaming and game development and have studied C# and Unity in the past, after dropping my previous career as a high school tutor.
 
